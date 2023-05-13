@@ -17,3 +17,11 @@ const actionHero = {
 };
 
 // In this example, actionHero is an object with five properties and values.
+
+const mercedes = {
+  model: "s class",
+  year: 2020,
+  tires: 4,
+  seats: 5,
+  color: "black",
+};
