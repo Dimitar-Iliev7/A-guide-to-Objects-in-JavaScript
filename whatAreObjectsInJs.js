@@ -5,11 +5,15 @@
 //  In simple terms, objects are like Rockstar's of JavaScript
 //  - they come in style, save the day, and organize your data like a boss.
 
+// Let’s consider the example below:
+
 // object literals syntax
-const person = {
+const actionHero = {
   firstName: "John",
   lastName: "Doe",
   age: 35,
   country: "USA",
   bike: "Harley Davidson",
 };
+
+// In this example, actionHero is an object with five properties and values.
