@@ -26,3 +26,10 @@ const mercedes = {
   seats: 5,
   color: "black",
 };
+
+const house = {
+  rooms: 4,
+  floors: 3,
+  kitchen: 1,
+  bathroom: 2,
+};
